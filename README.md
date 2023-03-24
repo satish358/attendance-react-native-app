@@ -60,3 +60,18 @@ Alternatively, you can use [React Native Debugger](https://github.com/jhen0409/r
 `MIT License`
 
 I hope this helps you get started on your documentation! Let me know if you have any other questions.
+
+## Screenshots
+
+<img src="./screenshots/server_setup.png"  width="20%">
+<img src="./screenshots/login.png"  width="20%">
+<img src="./screenshots/student_register.png"  width="20%">
+<img src="./screenshots/faculty_register.png"  width="20%">
+<img src="./screenshots/faculty_dashboard.png"  width="20%">
+<img src="./screenshots/faculty_profile.png"  width="20%">
+<img src="./screenshots/faculty_subjects.png"  width="20%">
+<img src="./screenshots/faculty_show_attendance.png"  width="20%">
+<img src="./screenshots/student_dashboard.png"  width="20%">
+<img src="./screenshots/student_profile.png"  width="20%">
+<img src="./screenshots/student_attendance.png"  width="20%">
+<img src="./screenshots/student_subjects.png"  width="20%">
